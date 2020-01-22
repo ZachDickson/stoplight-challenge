@@ -1,6 +1,6 @@
 .trafficlight{
-border-color: black;
-background-color: black;
+border-color: grey;
+background-color:rgb(58, 57, 57);
 width: 150px;
 height: 350px;
 position: relative;
